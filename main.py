@@ -82,7 +82,3 @@ elif n == 6:
     while True:
         schedule.run_pending()
         time.sleep(1)
-
-# while True:
-#     schedule.run_pending()
-#     time.sleep(1)
