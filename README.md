@@ -3,7 +3,7 @@
 # Moonhive task of copying files at scheduled time
 An automation script that copies **.txt** files from one folder to another at scheduled time to be chosen from options.
 
-👉 The task statement is attached as a file named **task.txt**.
+👋 The task statement is attached as a file named **task.txt**.
 
 ***Steps:***
 1. Download the project as zip & extract it.
