@@ -24,7 +24,7 @@ def job():
 
 
 def monthly():
-    if date.today().day != 23:
+    if date.today().day != 1:
         return
     global i
     x = i
